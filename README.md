@@ -1,7 +1,6 @@
 # 📜우리에게 project  [죽음의조]
   
-## 💪Project Informations
-+ 해당 프로젝트는 SCH LikeLion 8th - 피닉스톤 팀 **죽음의조** 에서 진행한 프로젝트입니다.  
+## 💪Project Informations  
 + BackEnd - 박형민, 최민석
 + FrontEnd - 박병호, 강민서, 임수빈, 하유민
 + ![슬라이드1](https://user-images.githubusercontent.com/60251579/92381667-3bb5db00-f146-11ea-9701-eafff9eeb8ca.PNG)
